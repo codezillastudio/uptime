@@ -8,6 +8,9 @@ sites:
   - name: Wikipedia
     url: https://en.wikipedia.org
 
+    notifications: 
+    type: discord
+
 status-website:
   metaTags:
     - name: "color-scheme"
