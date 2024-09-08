@@ -35,7 +35,8 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
-i18n: footer
+i18n: 
+footer: All Rights Reserved © 2024 [**CodeZillaStudio**](https://discrd.gg/4ACjbbrAPZ)
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
