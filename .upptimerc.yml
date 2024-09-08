@@ -9,7 +9,7 @@ sites:
     url: https://en.wikipedia.org
 
     notifications: 
-    type: discord
+      - type: discord
 
 status-website:
   metaTags:
