@@ -9,6 +9,11 @@ sites:
     url: https://en.wikipedia.org
 
 status-website:
+  metaTags:
+    - name: "color-scheme"
+      content: "dark light"
+    - name: "robots"
+      content: "noindex"
   robotsText: "User-agent: * \n Disallow: /"
   theme: night
   favicon: https://i.imgur.com/C3PrvnU.png
