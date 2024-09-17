@@ -4,10 +4,11 @@ repo: uptime # The name of this repository
 
 sites:
   - name: Code Z
+    check: "tcp-ping"
     url: https://7716-idx-code-zgit-1726561396504.cluster-23wp6v3w4jhzmwncf7crloq3kw.cloudworkstations.dev
     icon: https://i.imgur.com/68dykn3.png
-    maxResponseTime: 5000
-    __dangerous__disable_verify_host: true
+    port: 7716
+    ipv6: true
   - name: Google
     url: https://www.google.com
   - name: Wikipedia
