@@ -1,22 +1,22 @@
 [
   {
     "name": "Code Z",
-    "url": "https://7716-idx-code-zgit-1726561396504.cluster-23wp6v3w4jhzmwncf7crloq3kw.cloudworkstations.dev/",
+    "url": "https://7716-idx-code-zgit-1726561396504.cluster-23wp6v3w4jhzmwncf7crloq3kw.cloudworkstations.dev",
     "icon": "https://i.imgur.com/68dykn3.png",
     "slug": "code-z",
     "status": "down",
-    "uptime": "12.34%",
-    "uptimeDay": "12.34%",
-    "uptimeWeek": "12.34%",
-    "uptimeMonth": "12.34%",
-    "uptimeYear": "12.34%",
+    "uptime": "0.47%",
+    "uptimeDay": "0.47%",
+    "uptimeWeek": "0.47%",
+    "uptimeMonth": "0.47%",
+    "uptimeYear": "0.47%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-17": 0
+      "2024-09-17": 7
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 85,
-    "timeDay": 92,
-    "timeWeek": 88,
-    "timeMonth": 85,
-    "timeYear": 85,
+    "time": 84,
+    "timeDay": 83,
+    "timeWeek": 85,
+    "timeMonth": 84,
+    "timeYear": 84,
     "dailyMinutesDown": {}
   },
   {
@@ -49,8 +49,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 248,
-    "timeDay": 128,
-    "timeWeek": 156,
+    "timeDay": 191,
+    "timeWeek": 176,
     "timeMonth": 248,
     "timeYear": 248,
     "dailyMinutesDown": {}
