@@ -6,7 +6,8 @@ sites:
   - name: Code Z
     url: https://7716-idx-code-zgit-1726561396504.cluster-23wp6v3w4jhzmwncf7crloq3kw.cloudworkstations.dev
     icon: https://i.imgur.com/68dykn3.png
-    method: POST
+    maxResponseTime: 5000
+    __dangerous__disable_verify_host: true
   - name: Google
     url: https://www.google.com
   - name: Wikipedia
