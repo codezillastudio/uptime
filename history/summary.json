@@ -1,25 +1,5 @@
 [
   {
-    "name": "Code Z",
-    "url": "https://fa-node.znxh.eu:14135",
-    "icon": "https://i.imgur.com/68dykn3.png",
-    "slug": "code-z",
-    "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2024-09-17": 7
-    }
-  },
-  {
     "name": "Google",
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
@@ -49,7 +29,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 238,
-    "timeDay": 275,
+    "timeDay": 256,
     "timeWeek": 203,
     "timeMonth": 238,
     "timeYear": 238,
