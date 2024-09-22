@@ -1,7 +1,7 @@
 [
   {
     "name": "Code Z",
-    "url": "https://fa-node.znxh.eu",
+    "url": "https://fa-node.znxh.eu:14135",
     "icon": "https://i.imgur.com/68dykn3.png",
     "slug": "code-z",
     "status": "down",
@@ -31,8 +31,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 90,
-    "timeDay": 105,
-    "timeWeek": 102,
+    "timeDay": 98,
+    "timeWeek": 100,
     "timeMonth": 90,
     "timeYear": 90,
     "dailyMinutesDown": {}
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 239,
-    "timeDay": 302,
-    "timeWeek": 202,
-    "timeMonth": 239,
-    "timeYear": 239,
+    "time": 238,
+    "timeDay": 275,
+    "timeWeek": 203,
+    "timeMonth": 238,
+    "timeYear": 238,
     "dailyMinutesDown": {}
   }
 ]
