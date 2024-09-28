@@ -4,7 +4,7 @@ repo: uptime # The name of this repository
 
 sites:
     check: "tcp-ping"
-    url: https://fa-node.znxh.eu
+    url: https://3001-idx-code-z-1727502440693.cluster-wxkvpdxct5e4sxx4nbgdioeb46.cloudworkstations.dev
     icon: https://i.imgur.com/68dykn3.png
     port: 14135
 
