@@ -1,22 +1,22 @@
 [
   {
     "name": "Code Z",
-    "url": "https://3001-idx-code-z-1727502440693.cluster-wxkvpdxct5e4sxx4nbgdioeb46.cloudworkstations.dev",
+    "url": "http://http://fa-node.znxh.eu:14135/",
     "icon": "https://i.imgur.com/68dykn3.png",
     "slug": "code-z",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "78.52%",
+    "uptimeDay": "78.52%",
+    "uptimeWeek": "78.52%",
+    "uptimeMonth": "78.52%",
+    "uptimeYear": "78.52%",
     "time": 547,
     "timeDay": 547,
     "timeWeek": 547,
     "timeMonth": 547,
     "timeYear": 547,
     "dailyMinutesDown": {
-      "2024-09-29": 0
+      "2024-09-29": 292
     }
   }
 ]
