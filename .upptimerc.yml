@@ -4,7 +4,7 @@ repo: uptime # The name of this repository
 
 sites:
   - name: Code Z
-    url: https://3001-idx-code-z-1727502440693.cluster-wxkvpdxct5e4sxx4nbgdioeb46.cloudworkstations.dev
+    url: http://http://fa-node.znxh.eu:14135/
     icon: https://i.imgur.com/68dykn3.png
 
     notifications: 
