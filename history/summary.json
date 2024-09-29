@@ -1,22 +1,22 @@
 [
   {
     "name": "Code Z",
-    "url": "http://http://fa-node.znxh.eu:14135/",
+    "url": "http://http://fa-node.znxh.eu",
     "icon": "https://i.imgur.com/68dykn3.png",
     "slug": "code-z",
     "status": "down",
-    "uptime": "78.52%",
-    "uptimeDay": "78.52%",
-    "uptimeWeek": "78.52%",
-    "uptimeMonth": "78.52%",
-    "uptimeYear": "78.52%",
+    "uptime": "78.33%",
+    "uptimeDay": "78.33%",
+    "uptimeWeek": "78.33%",
+    "uptimeMonth": "78.33%",
+    "uptimeYear": "78.33%",
     "time": 547,
     "timeDay": 547,
     "timeWeek": 547,
     "timeMonth": 547,
     "timeYear": 547,
     "dailyMinutesDown": {
-      "2024-09-29": 292
+      "2024-09-29": 295
     }
   }
 ]
